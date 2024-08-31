@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/COA2023-programming01/183-coa2023-programming01/pom.xml" />
+        <option value="$PROJECT_DIR$/COA2023-programming02/185-coa2023-programming02/pom.xml" />
+        <option value="$PROJECT_DIR$/COA2023-programming03/186-coa2023-programming03/pom.xml" />
+        <option value="$PROJECT_DIR$/COA2023-programming04/187-coa2023-programming04/pom.xml" />
+        <option value="$PROJECT_DIR$/COA2023-programming05/188-coa2023-programming05/pom.xml" />
+        <option value="$PROJECT_DIR$/COA2023-programming06/189-coa2023-programming06/pom.xml" />
+        <option value="$PROJECT_DIR$/COA2023-programming07/190-coa2023-programming07/pom.xml" />
+        <option value="$PROJECT_DIR$/COA2023-programming08/192-coa2023-programming08/pom.xml" />
+        <option value="$PROJECT_DIR$/COA2023-programming09/191-coa2023-programming09/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

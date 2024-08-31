@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="2023 (2)" />
+        <module name="2023 (1)" />
+        <module name="2023 (4)" />
+        <module name="2023 (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="2023" target="1.8" />
+      <module name="2023 (5)" target="1.8" />
+      <module name="2023 (6)" target="1.8" />
+      <module name="2023 (7)" target="1.8" />
+      <module name="2023 (8)" target="1.8" />
+      <module name="2023 (9)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
